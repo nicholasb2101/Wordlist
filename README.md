@@ -1,7 +1,6 @@
 # Wordlist v1
 
 ---
----
 
 This is a compilation of wordlists that I have found to be most useful for 'projects' and I will continue adding as I find and use more.
 
