@@ -1,9 +1,9 @@
 # __Wordlist v1__
 #### Contents:
-- [Info](#Info:)
-- [Install](#Install:)
-- [Changelog](#Changelog:)
-- [Planned Features](#Plans:)
+- [Info](#Info)
+- [Install](#Install)
+- [Changelog](#Changelog)
+- [Planned Features](#Plans)
 
 This is a compilation of wordlists that I have found to be most useful for 'projects' requiring wordlists and I will continue adding as I find and use more.
 
