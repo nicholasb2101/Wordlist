@@ -1,15 +1,15 @@
-# __Wordlist v1__
+# __Wordlist__
 #### Contents:
 - [Info](#Info)
 - [Install](#Install)
 - [Changelog](#Changelog)
 - [Planned Features](#Plans)
 
-This is a compilation of wordlists that I have found to be most useful for 'projects' requiring wordlists and I will continue adding as I find and use more.
+
 
 ---
 #### Information:
-This contains approximately 1.4 million different words/text, numbers and symbols. They are ordered symbollically, numerically and finally alphabetically and are American English in spelling. they contain phrases relevant to company names, common words, common passwords, IT related topics, ect. As previously mentioned this list will continue to be updated with relevant data.
+This is a compilation of wordlists that I have found to be most useful for 'projects' requiring wordlists and I will continue adding as I find and use more. It contains approximately 1.4 million different words/text, numbers and symbols. They are ordered symbollically, numerically and finally alphabetically and are American English in spelling. they contain phrases relevant to company names, common words, common passwords, IT related topics, ect. As previously mentioned this list will continue to be updated with relevant data.
 
 ---
 #### Install:
@@ -31,6 +31,7 @@ The file should have cloned to your desktop and is now ready to use.
 ---
 #### Plans
 
+-  [ ] Add Symbol + Hybrid Dictionary
 -  [ ] Add neumerical/Textual Hybrid Dictionary
 -  [ ] Add neumerical Dictionary 
 
